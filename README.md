@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Leonardo!
 
-🔭 I’m currently working as Software Engineer, Web Developer and Progammer
+🔭 I’m currently working as Software Engineer
 <!--
 **leosiagiannn/leosiagiannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
