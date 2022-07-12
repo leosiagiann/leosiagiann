@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leosiagiann)](https://github.com/leosiagiann)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-siagian-6807891b1/)](https://www.linkedin.com/in/leonardo-siagian-6807891b1/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leosiagiannn)](https://twitter.com/leosiagiannn)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://instagram.com/leosiagiannn)](https://instagram.com/leosiagiannn)
 [![Website Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://leosiagian.herokuapp.com/)](https://leosiagian.herokuapp.com/)
 
 <br />
