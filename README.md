@@ -1,14 +1,9 @@
 ## Hello 👋👋👋 , I'm Leonardo!
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/leonardo-siagian-6807891b1/">
-  <img align="left" alt="Leonardo Siagian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/leosiagiannn">
-  <img align="left" alt="Leonardo Siagian's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://instagram.com/leosiagiannn">
-  <img align="left" alt="Leonardo Siagian's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leosiagiann)](https://github.com/leosiagiann)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-siagian-6807891b1/)](https://www.linkedin.com/in/leonardo-siagian-6807891b1/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leosiagiannn)](https://twitter.com/leosiagiannn)
+[![Website Badge](https://img.shields.io/badge/-Website-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://leosiagian.herokuapp.com/)](https://leosiagian.herokuapp.com/)
 
 <br />
 <br />
