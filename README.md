@@ -15,8 +15,3 @@
 
 [![Leoanrdo Siagian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leosiagiann&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/leosiagiann/leosiagiann)
 [![Leoanrdo Siagian' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosiagiann&langs_count=5&theme=tokyonight&cache_seconds=10800)](https://github.com/leosiagiann/leosiagiann)
-
-![](https://komarev.com/ghpvc/?username=leosiagiann)
-
-
-![Metrics](https://github.com/leosiagiann/leosiagiann/blob/master/github-metrics.svg)
